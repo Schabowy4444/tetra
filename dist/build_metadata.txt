@@ -1,0 +1,5 @@
+Version: 2.3
+Commit: unknown
+Build Time: 2026-09-22T19:31:05.204370
+Executable: C:\Users\PHA\Desktop\TetraEar-master\dist\TETRA_Decoder_Modern.exe
+Size: 96.49 MB
