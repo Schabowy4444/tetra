@@ -1,0 +1,9 @@
+2026-09-22 19:33:36.940 [INFO] tetraear.ui.modern: Logging to: C:\Users\PHA\Desktop\TetraEar-master\logs
+2026-09-22 19:33:36.940 [DEBUG] tetraear.ui.modern: Log files: {'all': 'C:\\Users\\PHA\\Desktop\\TetraEar-master\\logs\\tetraear_20260922_193335.log', 'app': 'C:\\Users\\PHA\\Desktop\\TetraEar-master\\logs\\app_20260922_193335.log', 'decoder': 'C:\\Users\\PHA\\Desktop\\TetraEar-master\\logs\\decoder_20260922_193335.log', 'codec': 'C:\\Users\\PHA\\Desktop\\TetraEar-master\\logs\\codec_20260922_193335.log', 'audio': 'C:\\Users\\PHA\\Desktop\\TetraEar-master\\logs\\audio_20260922_193335.log', 'frames': 'C:\\Users\\PHA\\Desktop\\TetraEar-master\\logs\\frames_20260922_193335.log'}
+2026-09-22 19:33:36.985 [DEBUG] tetraear.ui.modern: Loaded icon from: C:\Users\PHA\Desktop\TetraEar-master\tetraear\assets\icon_preview.png
+2026-09-22 19:33:38.245 [INFO] tetraear.ui.modern: Set frequency to 390.865 MHz
+2026-09-22 19:33:46.043 [INFO] tetraear.ui.modern: Capture started
+2026-09-22 19:33:46.043 [ERROR] tetraear.signal.capture: RTL-SDR library not available
+2026-09-22 19:33:46.059 [INFO] tetraear.ui.modern: Initializing RTL-SDR...
+2026-09-22 19:33:46.059 [INFO] tetraear.ui.modern: ERROR: Failed to open RTL-SDR
+2026-09-22 19:33:46.059 [INFO] tetraear.ui.modern: Stopped
